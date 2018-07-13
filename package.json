@@ -1,0 +1,22 @@
+{
+  "name": "raffle",
+  "version": "1.0.0",
+  "description": "Control to play a raffle based on a list of string values",
+  "main": "audio-player.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pabloitto/raffle-js.git"
+  },
+  "author": "Juan Pablo Itto <pabloitto@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pabloitto/raffle-js/issues"
+  },
+  "homepage": "https://github.com/Pabloitto/raffle-js#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
